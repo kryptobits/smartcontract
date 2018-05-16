@@ -18,7 +18,7 @@ The tokens not sold during these phases will be burned forever, that is, no more
 
 The distribution of the 1,442,000,000 tokens of Kryptobits that will be offered for sale is described in the following table, by phases, quantity and estimated dates.
 
-- Token Standard ERC2O &quot;Token Kryptobits&quot; with the symbol &quot;KBE&quot;, having 1.260 million units created.
+- Token Standard ERC2O &quot;Kryptobits&quot; with the symbol &quot;KBE&quot;, having 1.260 million units created.
 
 - 360.5 million for the the developer team, advisors and economic and legal development of infrastructure.
 
