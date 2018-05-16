@@ -26,9 +26,9 @@ The distribution of the 1,442,000,000 tokens of Kryptobits that will be offered 
 
 - 667 million to € 0,06 unit in phase 1
 
-- 375 million to € 0,07 the unit in phase 2
+- 375 million to € 0,08 the unit in phase 2
 
-- 200 million to € 0,08 the unit in phase 3
+- 200 million to € 0,10 the unit in phase 3
 
 - Total: 1,802.5 million units.
 
