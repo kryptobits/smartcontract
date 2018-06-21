@@ -33,11 +33,15 @@ The distribution of the 1,442,000,000 tokens of Kryptobits that will be offered 
 - Total: 1,802.5 million units.
 
 
-## Crowdsale contract address
+## Crowdsale contract address (Investment Address)
 
 Always double-check the crowdsale address in our official channels.
 
-0x42b924565ab132c7dc7a048470e4029d1e44222d
+0x35a0215db845d23de8b05fa668f8d206c94079ba
+
+## KBE Token Address
+
+0x0344fE8870C543eb56AeCf4Db78cd43b2a444099
 
 
 ## Requirements
